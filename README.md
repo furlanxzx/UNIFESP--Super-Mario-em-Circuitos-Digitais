@@ -14,7 +14,7 @@ O objetivo do projeto foi recriar o clássico jogo **Super Mario** utilizando ex
 
 O arquivo do projeto está compactado devido ao seu tamanho. Para utilizá-lo:
 
-1. Baixe o arquivo `.zip` disponível neste repositório.
+1. Baixe o arquivo `.zip` disponível neste repositório (clicando em projeto_enviado.zip -> "View raw").
 2. Descompacte o arquivo em seu computador.
 3. Abra o **Wired Panda** (versão 5.1.2).
 4. Carregue o arquivo do projeto descompactado.
