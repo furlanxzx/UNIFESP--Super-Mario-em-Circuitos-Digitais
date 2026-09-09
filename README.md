@@ -8,7 +8,7 @@ O objetivo do projeto foi recriar o clássico jogo **Super Mario** utilizando ex
 
 - **Wired Panda** — versão `5.1.2`
 
-> ⚠️ Para abrir o projeto corretamente, é recomendado utilizar a mesma versão do Wired Panda (5.1.2), evitando incompatibilidades com componentes ou funcionalidades de versões diferentes.
+> ⚠️ Para abrir o projeto corretamente, é recomendado utilizar a mesma versão do Wired Panda (5.1.2), evitando incompatibilidades com componentes ou funcionalidades de versões diferentes. (versões superiores podem ter compatibilidade).
 
 ## 📦 Como baixar e abrir o projeto
 
