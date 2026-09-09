@@ -19,6 +19,12 @@ O arquivo do projeto está compactado devido ao seu tamanho. Para utilizá-lo:
 3. Abra o **Wired Panda** (versão 5.1.2).
 4. Carregue o arquivo do projeto descompactado.
 
+ ---
 ## 📚 Contexto
 
 Este repositório documenta um projeto acadêmico da disciplina de Circuitos Digitais, com o desafio de implementar a lógica de um jogo inteiramente por meio de portas lógicas e componentes digitais, sem uso de programação tradicional.
+
+---
+
+<img width="1000" height="450" alt="Image" src="https://github.com/furlanxzx/UNIFESP--Super-Mario-em-Circuitos-Digitais/blob/main/imagens/Captura%20de%20tela%202026-09-09%20130901.png" />
+
